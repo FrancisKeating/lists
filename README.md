@@ -3,9 +3,9 @@
 <>Ordered list><
 
 >><Put the dry ingredients.<>
->Put in the wet ingredients><
+>>Put in the wet ingredients><
 Stir
-Bake 3500 for one hour
+<>Bake 3500 for one hour><
 Un-orded list
 
 Milk
@@ -14,7 +14,7 @@ Cheese
 Flour
 CHALLENGE if you choose.
 
-Day one
+><Day one><
 Breakfast - eggs
 Lunch - grilled cheese
 Dinner - grilled burgers
